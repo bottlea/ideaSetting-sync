@@ -3,7 +3,7 @@
     <property name="created">2020-05-03T10:33:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-05-03T10:40:42</property>
+    <property name="modified">2020-05-03T10:51:06</property>
     <property name="originalScheme">IntelliJ Light Preview</property>
   </metaInfo>
   <colors>
@@ -58,7 +58,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="8000" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -110,7 +110,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="8000" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
