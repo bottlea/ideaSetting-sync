@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Time Millis" />
+      <item value="observe" />
       <item value="bubbling Sort" />
     </histories>
     <option name="languageScores">
