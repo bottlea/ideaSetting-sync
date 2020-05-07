@@ -1,8 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="current Time Millis" />
-      <item value="observe" />
       <item value="bubbling Sort" />
     </histories>
     <option name="languageScores">
@@ -11,8 +9,5 @@
         <entry key="ENGLISH" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
