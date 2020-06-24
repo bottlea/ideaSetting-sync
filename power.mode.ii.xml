@@ -1,8 +1,8 @@
 <application>
   <component name="PowerModeII">
-    <option name="customBamImageFolder" value="E:\workspace\java\springboot_demo" />
-    <option name="customFlameImageFolder" value="E:\workspace\java\springboot_demo" />
+    <option name="customBamImageFolder" value="F:\PortableSoftware\ideaIU\jbr\bin" />
+    <option name="customFlameImageFolder" value="F:\PortableSoftware\ideaIU\jbr\bin" />
     <option name="enabled" value="false" />
-    <option name="soundsFolder" value="E:\workspace\java\springboot_demo" />
+    <option name="soundsFolder" value="F:\PortableSoftware\ideaIU\jbr\bin" />
   </component>
 </application>
