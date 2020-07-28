@@ -10,4 +10,15 @@
       </map>
     </option>
   </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="phoneticFontFamily" value="JetBrains Mono" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="20233ea494694316" />
+      </youdao-translate>
+    </option>
+  </component>
 </application>
